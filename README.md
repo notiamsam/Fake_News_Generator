@@ -8,7 +8,7 @@ They do not represent real news.
 
 ---
 
-Features
+Features:
 Generates random funny news headlines.  
 Choose categories (Sports, Politics, Bollywood, etc.).  
 Clean UI with animated headlines (scroll effect).  
@@ -17,9 +17,7 @@ Built with **Flask + HTML + CSS (Bootstrap & custom styles)**.
 
 ---
 
-Tech Stack
+Tech Stack:
 Backend: Python, Flask  
 Frontend: HTML5, CSS3, Bootstrap  
 Other Tools: Random module, Jinja2 templating  
-
----
